@@ -33,6 +33,13 @@ body {
     clip-path: polygon(0 0, 100% 0, 100% 90%, 0 100%);
 }
 
+#portfolio {
+    padding: 50px 15px;
+    background-color: #f8f9fa;
+    text-align: center;
+    border-top: 5px solid #3a318b; /* Stile aggiunto */
+}
+
 h1, h2 {
     font-weight: 700;
     color: #5543c0;
